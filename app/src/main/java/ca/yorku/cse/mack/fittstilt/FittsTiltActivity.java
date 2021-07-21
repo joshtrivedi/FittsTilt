@@ -224,7 +224,6 @@ public class FittsTiltActivity extends Activity implements SensorEventListener {
 
   // Amit changes
   String frictionCoefficientVisualization, frictionCoefficientVisualizationMatching;
-
   int flicker_multiplier;
   float gain;
   long startTimeTouch = -1l;

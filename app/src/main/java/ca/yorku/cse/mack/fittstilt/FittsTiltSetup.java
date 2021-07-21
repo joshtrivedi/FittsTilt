@@ -1,4 +1,4 @@
-package ca.yorku.cse.mack.fittstilt;
+  package ca.yorku.cse.mack.fittstilt;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -345,7 +345,7 @@ public class FittsTiltSetup extends Activity {
     spe.putString("amplitudes", amplitudesArray[spinAmplitude.getSelectedItemPosition()]);
     spe.putString("widths", widthsArray[spinWidth.getSelectedItemPosition()]);
     spe.putString("ballScale", ballScaleArray[spinBallScale.getSelectedItemPosition()]);
-    spe.putString("orderOfControl", orderOfControlArray[spinOrderOfControl.getSelectedItemPosition()]);
+    
     spe.putString("gain", gainArray[spinTG.getSelectedItemPosition()]);
     spe.putString("radius", radiusArray[spinRadius.getSelectedItemPosition()]);
     spe.putString("hand", handArray[spinHand.getSelectedItemPosition()]);
