@@ -1,15 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pig2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\pig2.png"
     },
     {
         "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\layout_setup.xml.flat",
         "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\layout\\setup.xml"
-    },
-    {
-        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_glass.png.flat",
-        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\ic_glass.png"
     },
     {
         "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\layout_results_dialog.xml.flat",
@@ -24,8 +20,104 @@
         "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cow2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\cow2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tiger.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\tiger.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_penguin.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\penguin.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lion2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\lion2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_apple.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_horse.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\horse.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_appleandpig.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\appleandpig.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rooster2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\rooster2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lion.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\lion.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rhino.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\rhino.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wood.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\ic_wood.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tiger2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\tiger2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_penguin2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\penguin2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chicken2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\chicken2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rhino2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\rhino2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_elephant2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\elephant2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_walrus2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\walrus2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_horse2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\horse2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_glass.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\ic_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chicken.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_llama.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\llama.png"
+    },
+    {
         "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_grass.png.flat",
         "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\ic_grass.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_walrus.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\walrus.png"
     },
     {
         "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\raw_click.wav.flat",
@@ -36,15 +128,51 @@
         "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\ball.png"
     },
     {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_giraffe.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\giraffe.png"
+    },
+    {
         "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
         "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cow.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\cow.png"
     },
     {
-        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wood.png.flat",
-        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-hdpi\\ic_wood.png"
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rooster.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\rooster.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_giraffe2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\giraffe2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sheep2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\sheep2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_llama2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\llama2.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_turkey.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\turkey.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_elephant.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\elephant.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pig.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\pig.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sheep.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\sheep.png"
+    },
+    {
+        "merged": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_turkey2.png.flat",
+        "source": "C:\\Users\\josht\\Documents\\FittsTilt\\app\\src\\main\\res\\drawable-mdpi\\turkey2.png"
     }
 ]

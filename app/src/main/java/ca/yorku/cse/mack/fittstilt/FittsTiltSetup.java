@@ -20,7 +20,7 @@ public class FittsTiltSetup extends Activity {
   final static String PHYSICS1 = "Physics1";
   final static String FLICKER = "Flicker";
   final static String FRICTION = "Friction";
-
+  final static String DRAGANDDROP = "Drag and Drop";
   //Friction Coefficient
   final static String WOOD_METAL_0 = "0.0";
   final static String WOOD_METAL_1 = "0.1";
@@ -104,7 +104,7 @@ public class FittsTiltSetup extends Activity {
   String[] amplitudesArray = {"125, 250, 500", "125, 250, 500", "250, 500", "500", "500", "750", "1000", "1500", "auto"};
   String[] widthsArray = {"40, 60, 100", "40, 60, 100", "60, 100", "100", "150", "200", "100, 150, 200"};
   String[] ballScaleArray = {"0.5", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"};
-  String[] orderOfControlArray = {VELOCITY, VELOCITY, POSITION, PHYSICS1, FLICKER, FRICTION};
+  String[] orderOfControlArray = {VELOCITY, VELOCITY, POSITION, PHYSICS1, FLICKER, FRICTION, DRAGANDDROP};
   String[] frictionCoefficientArray = {WOOD_METAL_5, WOOD_METAL_0, WOOD_METAL_1, WOOD_METAL_2, WOOD_METAL_3, WOOD_METAL_4, WOOD_METAL_5, WOOD_METAL_6, WOOD_METAL_7, WOOD_METAL_8, WOOD_METAL_9, WOOD_METAL_10};
   // Amit changes
   String[] frictionCoefficientVisualizationArray = {VISULAZATION_0, VISULAZATION_1, VISULAZATION_2};
@@ -316,7 +316,7 @@ public class FittsTiltSetup extends Activity {
     b.putString("hand", hand);
     b.putString("orderOfControl", orderOfControl);
     b.putString("frictionCoefficient", frictionCoefficient);
-    // Amit changes
+    //
     b.putString("frictionCoefficientVisualizationMatching", frictionCoefficientVisualizationMatching);
     b.putString("frictionCoefficientVisualization", frictionCoefficientVisualization);
 
